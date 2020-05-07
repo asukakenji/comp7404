@@ -3,6 +3,7 @@
 ## Machine Used for Training
 
 ```
+       OS: macOS Catalina (Version 10.15.4)
     Model: iMac Pro (2017)
 Processor: 2.3 GHz 18-Core Intel Xeon W
            (Intel(R) Xeon(R) W-2191B CPU @ 2.30GHz)
