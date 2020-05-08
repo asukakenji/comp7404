@@ -10,4 +10,5 @@ Processor: 2.3 GHz 18-Core Intel Xeon W
            (18-Core, 36-Thread)
    Memory: 128 GB 2666 MHz DDR4
  Graphics: Radeon Pro Vega 64 16 GB
+           (Device name in PlaidML: metal_amd_radeon_pro_vega_64.0)
 ```
